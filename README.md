@@ -27,12 +27,9 @@ orthogonal field monitors (grey planes).*
 
 The isolated and wireframe views of the simulation boundaries:
 
-<table>
-  <tr>
-    <td><img src="figures/05_geometry_goldOnly.png" alt="Gold Nanosphere Only" width="75%"></td>
-    <td><img src="figures/05_geometry_wireframe.png" alt="Wireframe View" width="75%"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="figures/05_geometry_goldOnly.png" width="49.5%" /><img src="figures/05_geometry_wireframe.png" width="49.5%" />
+</p>
 
 ---
 
