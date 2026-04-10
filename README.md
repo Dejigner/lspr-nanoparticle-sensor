@@ -19,7 +19,7 @@ Computational characterisation of the localized surface plasmon resonance (LSPR)
 | Source | Plane wave, 400–900 nm |
 | Frequency points | 500 |
 
-![Geometry](figures/05_geometry.png)
+![Geometry](figures/05_geometry_goldOnly.png)
 
 *Simulation geometry: gold nanosphere (yellow) at centre, TFSF source sphere 
 (inner wireframe), scattering monitor sphere (outer wireframe), and three 
@@ -28,7 +28,7 @@ orthogonal field monitors (grey planes).*
 The isolated and wireframe views of the simulation boundaries:
 
 <p align="center">
-  <img src="figures/05_geometry_goldOnly.png" width="49.5%" /><img src="figures/05_geometry_wireframe.png" width="49.5%" />
+  <img src="figures/05_geometry.png" width="49.5%" /><img src="figures/05_geometry_wireframe.png" width="49.5%" />
 </p>
 
 ---
