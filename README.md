@@ -102,9 +102,27 @@ at the respective LSPR resonance frequencies. The enhanced field decays
 exponentially from the particle surface - the evanescent sensing volume 
 where biomolecules bind.
 
-| Air (n=1.00, λ=511 nm) | Water (n=1.33, λ=536 nm) |
-|------------------------|--------------------------|
-| ![Air](figures/04_nearfield_air_xz.png) | ![Water](figures/04_nearfield_water_xz.png) |
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Air (n=1.00, λ=511 nm)</th>
+      <th align="center">Water (n=1.33, λ=536 nm)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="figures/04_nearfield_air_xz.png" height="300" alt="Air Enhancement Map" />
+      </td>
+      <td align="center">
+        <img src="figures/04_nearfield_water_xz.png" height="300" alt="Water Enhancement Map" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 | Medium | Peak enhancement |
 |--------|-----------------|
