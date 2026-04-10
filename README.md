@@ -27,9 +27,9 @@ orthogonal field monitors (grey planes).*
 
 The isolated and wireframe views of the simulation boundaries:
 
-<!-- <p align="center">
+<p align="center">
   <img src="figures/05_geometry.png" width="49.5%" /><img src="figures/05_geometry_wireframe.png" width="49.5%" />
-</p> -->
+</p>
 
 ---
 
