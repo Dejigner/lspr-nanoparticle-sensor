@@ -25,6 +25,10 @@ Computational characterisation of the localized surface plasmon resonance (LSPR)
 (inner wireframe), scattering monitor sphere (outer wireframe), and three 
 orthogonal field monitors (grey planes).*
 
+The isolated and wireframe views of the simulation boundaries:
+
+![Gold Nanosphere Only](figures/05_geometry_goldOnly.png) ![Wireframe View](figures/05_geometry_wireframe.png)
+
 ---
 
 ## Result 1 — Baseline Extinction Spectrum
